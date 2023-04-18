@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbuleBlesing
+- 👋 Hi, I’m Blessing Abule
 - 👀 I’m interested in ... Software Engineering 
 - 🌱 I’m currently learning ... With ALX 
 - 💞️ I’m looking to collaborate on ...
